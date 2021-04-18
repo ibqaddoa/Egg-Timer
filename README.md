@@ -4,5 +4,5 @@ Following along the intermediate swift section of the Udemy course: "iOS & Swift
 
 -Swift Dictionaries    
 -How to use the ProgressView  
--Understandig and using optionals 
+-Understandig and using optionals     
 -etc... 
